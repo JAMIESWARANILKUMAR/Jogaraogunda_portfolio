@@ -1,8 +1,8 @@
 export const PROFILE = {
   name: "Dr. Jogarao Gunda",
-  title: "Associate Professor · Applied Mathematics",
+  title: "Associate Professor & Assistant HOD TPC",
   tagline:
-    "Research on almost distributive lattices, filters, and fuzzy structures — with 14+ years of shaping engineering minds.",
+    "Research on almost distributive lattices, filters, and fuzzy structures — bridging pure mathematics and student career success at AITAM.",
   department: "Basic Sciences & Humanities (Mathematics)",
   institution: "Aditya Institute of Technology and Management (AITAM), Tekkali",
   location: "Srikakulam, Andhra Pradesh, India",

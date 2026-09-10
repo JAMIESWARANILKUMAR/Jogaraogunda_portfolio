@@ -14,9 +14,9 @@ import { ScrollToTop } from "@/components/portfolio/ScrollToTop";
 import { PROFILE } from "@/lib/portfolio-data";
 
 const TITLE =
-  "Dr. Jogarao Gunda — Associate Professor of Applied Mathematics, AITAM Tekkali";
+  "Dr. Jogarao Gunda — Associate Professor & Asst HOD TPC, AITAM Tekkali";
 const DESCRIPTION =
-  "Portfolio of Dr. Jogarao Gunda: Ph.D. in Applied Mathematics (GITAM), 14+ years in academia, 12+ Scopus/Web of Science publications on almost distributive lattices, filters and fuzzy structures. Associate Professor at AITAM Tekkali.";
+  "Portfolio of Dr. Jogarao Gunda: Ph.D. in Applied Mathematics, 14+ years in academia, Assistant HOD TPC at AITAM Tekkali, with 12+ Scopus/WoS publications.";
 
 export const Route = createFileRoute("/")({
   component: Index,

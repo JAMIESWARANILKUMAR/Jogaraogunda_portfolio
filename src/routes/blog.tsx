@@ -6,6 +6,8 @@ import { ScrollProgress } from "@/components/portfolio/ScrollProgress";
 import { PROFILE, EXPERIENCE, EDUCATION } from "@/lib/portfolio-data";
 import { Briefcase, BookOpen, GraduationCap, Award, Users, Activity, FileText } from "lucide-react";
 
+import { BlogArticles } from "@/components/portfolio/BlogArticles";
+
 export const Route = createFileRoute("/blog")({
   component: Blog,
   head: () => ({
@@ -141,6 +143,7 @@ function Blog() {
           </div>
         </section>
 
+        <BlogArticles />
       </main>
       <Footer />
       <ScrollToTop />
