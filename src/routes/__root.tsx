@@ -81,6 +81,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { title: "Dr. Jogarao Gunda — Associate Professor, Applied Mathematics" },
       { name: "description", content: "Portfolio of Dr. Jogarao Gunda, Associate Professor of Mathematics at AITAM Tekkali — 14+ years of teaching, Ph.D. in Applied Mathematics, Scopus-indexed research on almost distributive lattices." },
       { name: "author", content: "Dr. Jogarao Gunda" },
+      { name: "keywords", content: "Dr. Jogarao Gunda, Jogarao Gunda, Associate Professor, Applied Mathematics, AITAM Tekkali, Assistant Head of Training and Placement, Assistant HOD TPC, Almost Distributive Lattices, Fuzzy Set Theory, Discrete Mathematics, Graph Theory, Modern Algebra, Probability & Statistics, GITAM University, PhD Applied Mathematics, Research Methodology, Mathematical Methods, Single Variable Calculus, Several Variable Calculus, Mathematical Foundation of Computer Science, Elementary Statistics, Statistical Inference, Engineering Mathematics-1" },
       { property: "og:title", content: "Dr. Jogarao Gunda — Associate Professor, Applied Mathematics" },
       { property: "og:description", content: "14+ years in academia · Ph.D. GITAM University · 12+ Scopus/WoS publications · Guiding 2 doctoral scholars." },
       { property: "og:type", content: "website" },

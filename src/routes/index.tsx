@@ -33,7 +33,7 @@ export const Route = createFileRoute("/")({
       {
         name: "keywords",
         content:
-          "Dr. Jogarao Gunda, Associate Professor, Applied Mathematics, AITAM Tekkali, Almost Distributive Lattices, Fuzzy Sets, Discrete Mathematics, Research Portfolio, GITAM Ph.D.",
+          "Dr. Jogarao Gunda, Jogarao Gunda, Associate Professor, Applied Mathematics, AITAM Tekkali, Assistant Head of Training and Placement, Assistant HOD TPC, Almost Distributive Lattices, Fuzzy Set Theory, Discrete Mathematics, Graph Theory, Modern Algebra, Probability & Statistics, GITAM University, PhD Applied Mathematics, Research Methodology, Mathematical Methods, Single Variable Calculus, Several Variable Calculus, Mathematical Foundation of Computer Science, Elementary Statistics, Statistical Inference, Engineering Mathematics-1",
       },
       { name: "author", content: PROFILE.name },
       { name: "robots", content: "index, follow, max-image-preview:large" },

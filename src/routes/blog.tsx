@@ -12,6 +12,7 @@ export const Route = createFileRoute("/blog")({
     meta: [
       { title: `Blog & Comprehensive Profile — ${PROFILE.name}` },
       { name: "description", content: "Comprehensive professional profile and blog of Dr. Jogarao Gunda." },
+      { name: "keywords", content: "Dr. Jogarao Gunda, Jogarao Gunda, Associate Professor, Applied Mathematics, AITAM Tekkali, Assistant Head of Training and Placement, Assistant HOD TPC, Almost Distributive Lattices, Fuzzy Set Theory, Discrete Mathematics, Graph Theory, Modern Algebra, Probability & Statistics, GITAM University, PhD Applied Mathematics, Research Methodology, Mathematical Methods, Single Variable Calculus, Several Variable Calculus, Mathematical Foundation of Computer Science, Elementary Statistics, Statistical Inference, Engineering Mathematics-1" },
     ],
   }),
 });
