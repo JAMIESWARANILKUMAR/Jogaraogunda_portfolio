@@ -32,6 +32,7 @@ export const EDUCATION = [
 ];
 
 export const EXPERIENCE = [
+  { from: "Jun 2024", to: "Present", org: "AITAM, Tekkali", role: "Assistant Head Of Department (HOD)", detail: "Training and Placement Cell" },
   { from: "Jun 2024", to: "Present", org: "AITAM, Tekkali", role: "Associate Professor", detail: "Department of BS&H (Mathematics)" },
   { from: "Feb 2024", to: "May 2024", org: "GITAM (Deemed) University, Visakhapatnam", role: "Assistant Professor" },
   { from: "Aug 2020", to: "Feb 2024", org: "GITAM (Deemed) University, Bangalore", role: "Assistant Professor" },

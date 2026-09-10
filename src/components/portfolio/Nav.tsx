@@ -16,6 +16,7 @@ type Group = { label: string; href?: string; children?: Leaf[] };
 type MenuItem = { label: string; href?: string; groups?: Group[] };
 
 const MENU: MenuItem[] = [
+  { label: "Blog", href: "/blog" },
   {
     label: "Explore",
     groups: [
