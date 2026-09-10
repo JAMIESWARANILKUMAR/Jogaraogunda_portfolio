@@ -116,11 +116,11 @@ export function Hero() {
                   <p className="flex items-center gap-2 text-xs uppercase tracking-[0.25em] text-primary">
                     <GraduationCap size={14} /> AITAM · Tekkali
                   </p>
-                  <p className="mt-2 font-display text-lg text-foreground">
-                    Associate Professor
+                  <p className="mt-2 font-display text-lg leading-tight text-foreground">
+                    {PROFILE.title}
                   </p>
-                  <p className="text-sm text-muted-foreground">
-                    Department of BS&amp;H (Mathematics)
+                  <p className="mt-1.5 text-sm text-muted-foreground">
+                    {PROFILE.department}
                   </p>
                 </div>
               </div>
