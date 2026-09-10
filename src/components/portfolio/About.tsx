@@ -17,8 +17,8 @@ export function About() {
           <Reveal>
             <div className="glass-panel rounded-3xl p-8 md:p-10">
               <p className="text-lg leading-relaxed text-foreground/90">
-                I am <span className="text-primary">Dr. Jogarao Gunda</span>, Associate
-                Professor at {PROFILE.institution}. My doctoral work at GITAM (Deemed to be)
+                I am <span className="text-primary">Dr. Jogarao Gunda</span>, Associate Professor & Assistant HOD TPC
+                {PROFILE.institution}. My doctoral work at GITAM (Deemed to be)
                 University explored{" "}
                 <em className="text-primary/90">weak relatively complemented almost distributive lattices</em>,
                 a thread I've continued through twelve peer-reviewed publications in
